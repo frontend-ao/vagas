@@ -9,14 +9,14 @@ assignees: ''
 
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END em Angola ou permita remoto!
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Front-End Developer" ao invés de 
+Use: "Front-End Developer / Front-End Engineer" ao invés de 
 "Desenvolvedor Front-End" \o/
 
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+Exemplo: `[Luanda] Front-End Engineer na NOME DA EMPRESA`
 ==================================================
 -->
 
@@ -26,7 +26,7 @@ Projeto bazinga em NodeJS, etc.
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+Remoto ou Escritório, cidade de Luanda, Angola
 
 ## Benefícios
 
@@ -59,7 +59,7 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 
 ## Contratação
 
-PJ a combinar
+RV a combinar (diária ou por hora)
 
 ## Nossa empresa
 
@@ -75,13 +75,27 @@ Costumamos enviar feedbacks em até XX dias após cada processo.
 E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
 
 ## Labels
+<!-- retire os labels que não fazem sentido à vaga, pode deixar quantas quiser em cada grupo sem problemas -->
 
+#### Alocação
 - Alocado
-- CLT
+- Remoto
+- Presencial
+- Híbrido
+
+#### Regime
+- Contrato
+- RV / PJ
 - Estágio
 - Freela
+
+#### Nível
 - Júnior
-- PJ
 - Pleno
-- Remoto
 - Sênior
+- Especialista
+
+#### Período
+- Full time
+- Part time
+- Projeto
